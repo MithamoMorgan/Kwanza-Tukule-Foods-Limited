@@ -7,5 +7,10 @@ Please submit your work as a Jupyter Notebook, R script, Excel workbook, or a de
 
 ## Section 1: Data Cleaning and Preparation (20 points)
 
-1. Data Quality Assessment: Inspect the dataset for missing values, duplicates, or inconsistent data types. Provide a summary of issues identified and the steps taken to resolve them.
-2. Feature Engineering: Create the following columns: “Month-Year” (e.g., August 2024) from the “DATE” column. (include a screenshot of this in your submission)
+1. **Data Quality Assessment:**
+   
+   Inspect the dataset for missing values, duplicates, or inconsistent data types. Provide a summary of issues identified and the steps taken to resolve them.
+   
+2. **Feature Engineering:**
+   
+   Create the following columns: “Month-Year” (e.g., August 2024) from the “DATE” column. (include a screenshot of this in your submission)
