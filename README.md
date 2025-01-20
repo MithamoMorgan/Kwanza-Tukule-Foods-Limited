@@ -5,6 +5,9 @@ Thank you for your interest in joining Kwanza Tukule. This assessment is designe
 
 Please submit your work as a Jupyter Notebook, R script, Excel workbook, or a detailed PDF report.
 
+## Data Source
+[Data](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1E90iFRs0fbn3cldZCQo7cGZ8XmBDYpdHuqeUEC3TGXc/edit?gid%3D1416790554%23gid%3D1416790554&sa=D&source=editors&ust=1737390314103602&usg=AOvVaw2vU-aXL-7t0lUNkRjQRZeH)
+
 ## Section 1: Data Cleaning and Preparation (20 points)
 
 1. **Data Quality Assessment:**
