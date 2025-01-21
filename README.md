@@ -1,7 +1,7 @@
 # Kwanza Tukule Data Analyst Assessment
 
 
-Thank you for your interest in joining Kwanza Tukule. This assessment is designed to evaluate your technical, analytical, and problem-solving skills. The dataset provided represents anonymized sales data. Use it to complete the tasks below and demonstrate your ability to derive actionable insights and recommendations.
+This assessment is designed to evaluate your technical, analytical, and problem-solving skills. The dataset provided represents anonymized sales data. Use it to complete the tasks below and demonstrate your ability to derive actionable insights and recommendations.
 
 Please submit your work as a Jupyter Notebook, R script, Excel workbook, or a detailed PDF report.
 
@@ -17,3 +17,22 @@ Please submit your work as a Jupyter Notebook, R script, Excel workbook, or a de
 2. **Feature Engineering:**
    
    Create the following columns: “Month-Year” (e.g., August 2024) from the “DATE” column. (include a screenshot of this in your submission)
+
+
+## Section 2: Exploratory Data Analysis (30 points)
+
+1. **Sales Overview:**
+
+* Calculate total Quantity and Value grouped by:
+   * Anonymized Category
+   * Anonymized Business
+* Provide visualizations (e.g., bar charts or tables) to support your findings.
+
+2. **Trends Over Time:**
+
+    Analyze sales trends (Value and Quantity) by Month-Year. Create a time series plot to show seasonal patterns or changes in sales performance.
+   
+3. **Performance Analysis:**
+   
+   * Identify the top 5 most frequently purchased products (based on Quantity).
+   * Identify the top 5 most valuable products (based on Value).
