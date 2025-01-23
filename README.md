@@ -36,3 +36,18 @@ Please submit your work as a Jupyter Notebook, R script, Excel workbook, or a de
    
    * Identify the top 5 most frequently purchased products (based on Quantity).
    * Identify the top 5 most valuable products (based on Value).
+
+4. ## Section 3: Advanced Analysis (30 points)
+
+1. **Customer Segmentation:**
+   * Perform a segmentation analysis of businesses (Anonymized Business) based on their purchasing behavior:
+      * Total Quantity purchased
+      * Total Value contributed
+      * Frequency of transactions
+   * Classify businesses into 3 groups (e.g., High Value, Medium Value, Low Value) and provide recommendations for engagement with each group.
+2. **Forecasting:**
+   * Using the provided data, forecast the total sales (Value) for the next 3 months. Use an appropriate time-series forecasting method (e.g., ARIMA, moving average, or exponential smoothing).
+3. **Anomaly Detection:**
+   * Identify any unusual spikes or drops in sales performance (Quantity or Value) and explain possible reasons based on the data.
+4. **Correlation Analysis:**
+   * Examine relationships between Quantity and Value. Provide insights into which factors drive sales performance.
