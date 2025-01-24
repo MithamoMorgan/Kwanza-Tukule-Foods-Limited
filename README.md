@@ -59,3 +59,13 @@ Please submit your work as a Jupyter Notebook, R script, Excel workbook, or a de
 2. **Customer Retention:** Identify businesses that have reduced their purchase frequency over time. Suggest strategies to re-engage these customers.
 
 3. **Operational Efficiency:** Suggest improvements to inventory management or supply chain processes based on trends in product performance and seasonal demand.
+
+## Section 5: Dashboard and Reporting
+
+1. **Create a dashboard summarizing key insights, including:**
+   
+   * Total Quantity and Value by Anonymized Category.
+   * Top-performing products and businesses.
+   *A time-series chart of sales trends.
+   * A segmentation summary of customer groups.
+2. Use tools such as Power BI, Tableau, or a Python library (e.g., Plotly, Dash) to make the dashboard interactive (if possible). Provide a screenshot or link to the dashboard.
