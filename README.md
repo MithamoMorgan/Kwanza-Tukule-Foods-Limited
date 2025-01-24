@@ -51,3 +51,11 @@ Please submit your work as a Jupyter Notebook, R script, Excel workbook, or a de
    * Identify any unusual spikes or drops in sales performance (Quantity or Value) and explain possible reasons based on the data.
 4. **Correlation Analysis:**
    * Examine relationships between Quantity and Value. Provide insights into which factors drive sales performance.
+
+## Section 4: Strategic Insights and Recommendations (20 points)
+
+1. **Product Strategy:** Based on your analysis, recommend one product category to prioritize for marketing campaigns. Justify your choice using the data.
+   
+2. **Customer Retention:** Identify businesses that have reduced their purchase frequency over time. Suggest strategies to re-engage these customers.
+
+3. **Operational Efficiency:** Suggest improvements to inventory management or supply chain processes based on trends in product performance and seasonal demand.
