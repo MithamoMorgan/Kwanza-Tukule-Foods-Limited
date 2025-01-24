@@ -69,3 +69,10 @@ Please submit your work as a Jupyter Notebook, R script, Excel workbook, or a de
    *A time-series chart of sales trends.
    * A segmentation summary of customer groups.
 2. Use tools such as Power BI, Tableau, or a Python library (e.g., Plotly, Dash) to make the dashboard interactive (if possible). Provide a screenshot or link to the dashboard.
+
+## Bonus Section: Open-Ended Problem
+
+1. **Predictive Analysis:**
+ Identify external factors that could influence sales (e.g., economic conditions, competitor actions). Propose a methodology to incorporate such factors into future analyses.
+
+2. **Scalability:** If the dataset were 10 times larger, what optimizations would you implement for data storage, processing, and analysis?
